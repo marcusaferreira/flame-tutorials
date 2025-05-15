@@ -1,5 +1,4 @@
 import 'package:flame/components.dart';
-import 'package:flame/events.dart';
 import 'package:flutter/painting.dart';
 import 'package:klondike/card.dart';
 import 'package:klondike/components/pile.dart';
